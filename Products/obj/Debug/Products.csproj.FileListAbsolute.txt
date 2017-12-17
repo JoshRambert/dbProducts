@@ -1,0 +1,11 @@
+C:\Users\Joshua\Desktop\C#\Products\Products\bin\Debug\Products.exe.config
+C:\Users\Joshua\Desktop\C#\Products\Products\bin\Debug\ProductsDB.mdf
+C:\Users\Joshua\Desktop\C#\Products\Products\bin\Debug\ProductsDB_log.ldf
+C:\Users\Joshua\Desktop\C#\Products\Products\bin\Debug\Products.exe
+C:\Users\Joshua\Desktop\C#\Products\Products\bin\Debug\Products.pdb
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.csprojResolveAssemblyReference.cache
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.Form1.resources
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.Properties.Resources.resources
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.csproj.GenerateResource.Cache
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.exe
+C:\Users\Joshua\Desktop\C#\Products\Products\obj\Debug\Products.pdb
