@@ -24,12 +24,5 @@ namespace Products
             this.tableAdapterManager.UpdateAll(this.productsDBDataSet);
 
         }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-            // TODO: This line of code loads data into the 'productsDBDataSet.Products' table. You can move, or remove it, as needed.
-            this.productsTableAdapter.Fill(this.productsDBDataSet.Products);
-
-        }
     }
 }
